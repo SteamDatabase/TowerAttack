@@ -1,4 +1,4 @@
-room,level,num_players,num_mobs_killed,num_towers_killed,num_minibosses_killed,num_bosses_killed,num_clicks,num_abilities_activated,num_players_reaching_milestone_level,num_ability_items_activated,num_active_players,time_simulating,time_saving,click_diff
+room,level,num_players,num_mobs_killed,num_towers_killed,num_minibosses_killed,num_bosses_killed,num_clicks,num_abilities_activated,num_players_reaching_milestone_level,num_ability_items_activated,num_active_players,time_simulating,time_saving
 11754,209,991,2383,567,120,20,4290361,2461,1012,2639,25,12.537626717974,28.002842707754
 11751,238,1008,2643,646,138,23,4847325,2923,1011,2996,15,22.55398132439,28.136428528358
 11747,205,972,2427,556,120,20,4509408,2442,1000,2739,11,7.6696129316484,27.973420072917
